@@ -1,0 +1,432 @@
+- categories:
+  - name: 软件
+    links:
+    - name: ISO
+      icon: windows blue
+      style: basic
+      url: https://hellowindows.cn
+
+    - name: 软仓
+      style: red
+      url: https://ruancang.net/#/sim
+
+    - name: 六音软件
+      style: basic
+      url: https://www.6yit.com
+
+    - name: 果核剥壳
+      style: orange
+      icon: lemon outline white
+      url: https://www.ghxi.com/
+
+    - name: MacWk
+      style: blue
+      url: https://macwk.com/
+
+    - name: 我爱分享
+      style: green
+      url: http://www.zhanshaoyi.com/
+
+    - name: 多多软件
+      style: olive
+      url: http://www.ddooo.com/
+
+    - name: 亦是美网络
+      style: red
+      url: http://www.yishimei.cn/
+
+    - name: 油猴中文网
+      style: basic
+      url: https://bbs.tampermonkey.net.cn/
+
+    - name: 腾讯软件
+      style:  app store blue
+      url: https://pc.qq.com/
+
+    - name: 吾爱破解
+      style: black
+      url: https://www.52pojie.cn/
+
+    - name: 亿破解
+      style: orange
+      url: https://www.ypojie.com/
+
+
+  - name: 工具
+    links:
+    - name: github
+      icon: github black
+      style: basic
+      url: https://github.com/dengbowang/
+
+    - name: gitee
+      icon: git red
+      style: basic
+      url: https://gitee.com/dengbowang/
+
+    - name: 一个工具箱
+      style: blue
+      url: http://www.atoolbox.net/
+
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: https://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 123云盘
+      icon: cloud download alternate blue
+      style: basic
+      url: https://www.123pan.com/login
+
+    - name: 阿里网盘
+      icon: hdd blue
+      style: basic
+      url: https://www.aliyundrive.com/
+
+    - name: 百度网盘
+      icon: paw blue
+      style: basic
+      url: http://pan.baidu.com/
+
+    - name: Alist
+      icon: hdd outline teal
+      style: basic
+      url: http://127.0.0.1/
+
+    # - name: 彩云天气
+    #   icon: cloud olive
+    #   style: basic
+    #   url: 
+
+    # - name: 天眼查
+    #   style: basic
+    #   url: 
+
+    - name: 稿定设计
+      style: basic
+      url: https://www.gaoding.com/
+
+    - name: Crxsoso
+      style: basic
+      url: https://www.crxsoso.com/
+
+
+
+  - name: 社交
+    links:
+
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://m.weibo.cn/
+
+    - name: 微信网页版
+      icon: weixin green
+      style: basic
+      url: https://wx.qq.com/
+
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
+
+    - name: 立创社区
+      style: basic
+      url: http://club.szlcsc.com/
+      
+    - name: ARM论坛
+      style: basic
+      url: https://www.armbbs.cn/
+
+    - name: 博客园
+      style: basic
+      url: https://www.cnblogs.com/
+
+    - name: CSDN
+      style: basic
+      url: https://www.csdn.net/
+
+    - name: 开源中国
+      icon: cuttlefish green
+      style: basic
+      url: https://www.oschina.net/
+
+    - name: python论坛
+      style: basic
+      url: https://www.pythontab.com/
+
+    - name: Python技术论坛
+      icon: python blue
+      style: basic
+      url: https://learnku.com/python
+
+    - name: C语言网
+      style: basic
+      url: https://www.dotcpp.com/
+
+    - name: 鱼C
+      style: teal
+      url: https://fishc.com.cn/
+
+    # - name: Quora
+    #   icon: quora red
+    #   style: basic
+    #   url: https://www.quora.com/
+
+    # - name: Facebook
+    #   icon: facebook f blue
+    #   style: basic
+    #   url: https://www.facebook.com/
+
+    # - name: Google+
+    #   icon: google plus g red
+    #   style: basic
+    #   url: https://plus.google.com/
+
+    # - name: Tumblr
+    #   icon: tumblr blue
+    #   style: basic
+    #   url: https://www.tumblr.com/
+
+    # - name: Instagram
+    #   icon: instagram pink
+    #   style: basic
+    #   url: https://www.instagram.com/
+
+    # - name: GitHub
+    #   icon: github black
+    #   style: basic
+    #   url: https://github.com/
+
+    # - name: LinkedIn
+    #   icon: linkedin blue
+    #   style: basic
+    #   url: https://www.linkedin.com/
+
+  - name: 学习
+    links:
+
+    # - name: Coursera
+    #   style: basic
+    #   url: https://www.coursera.org/
+
+    - name: MOOC
+      style: basic
+      url: https://www.icourse163.org/
+
+    - name: 网易公开课
+      style: basic
+      url: https://open.163.com/
+
+    - name: W3School
+      style: basic
+      url: https://www.w3school.com.cn/
+
+    - name: 菜鸟教程
+      style: green
+      url: https://www.runoob.com/
+
+    - name: SegmentFault
+      style: basic
+      url: https://segmentfault.com/
+
+    - name: Tutorials Point
+      style: basic
+      url: https://www.tutorialspoint.com/
+
+    # - name: Google Open Source
+    #   icon: code blue
+    #   style: basic
+    #   url: https://opensource.google.com/
+
+    - name: EdX
+      style: basic
+      url: https://edx.org/
+
+    - name: 智慧树
+      style: green
+      url: https://www.zhihuishu.com/
+
+    - name: 学习通
+      style: red
+      url: https://i.chaoxing.com/
+
+    - name: 职教云
+      style: black
+      url: https://www.zjy2.icve.com.cn/portal/login.html
+
+    - name: 无处不在
+      style: basic
+      url: https://gaoyichao.com/Xiaotu/
+
+
+  - name: 娱乐
+    links:
+    # - name: Youtube
+    #   icon: youtube red
+    #   style: basic
+    #   url: https://youtube.com/
+
+    - name: 爱奇艺
+      style: green
+      url: https://iqiyi.com/
+
+    - name: 芒果
+      style: orange
+      url: http://mgtv.com/
+
+    # - name: 咪咕视频
+    #   style: pink
+    #   url: https://pink.miguvideo.com/
+
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
+    - name: 优酷
+      style: basic
+      url: https://youku.com/
+
+    - name: 哔哩哔哩
+      style: blue
+      url: https://bilibili.com/
+
+    - name: AcFun
+      style: orange
+      url: https://www.acfun.cn/
+
+    # - name: 腾讯动漫
+    #   style: basic
+    #   url: https://ac.qq.com/
+
+    - name: 豆瓣电影
+      icon: film blue
+      style: basic
+      url: https://movie.douban.com/
+
+    - name: FIX
+      style: yellow
+      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+
+    - name: NEW
+      style: basic
+      url: https://newzmz.com/tvslist.html
+
+    - name: 幻樱
+      style: pink
+      url: http://www.hysub.net/
+
+    - name: 阳光电影
+      style: orange
+      url: https://www.ygdy8.net/
+
+    - name: 无名小站
+      style: blue
+      url: https://www.btnull.re/user/login/
+     
+
+- categories:
+  - name: 陕职校园
+    links:
+    - name: 陕职官网
+      style: basic
+      url: http://www.spvec.com.cn/
+
+    - name: 全国职业院校技能大赛
+      style: basic
+      url: http://www.chinaskills-jsw.org/
+
+    - name: 教务系统
+      style: basic
+      url: http://1.85.16.39:8087/
+
+    - name: 鼎利学院
+      style: basic
+      url: http://jsjkxx.spvec.com.cn/
+
+    - name: 鼎利网盘
+      style: basic
+      url: http://10.43.5.50/
+
+
+    - name: 陕职图书馆
+      style: basic
+      url: http://lib.spvec.com.cn/
+
+    - name: 校历
+      style: basic
+      url: http://www.spvec.com.cn/xysh1/szxl.htm
+
+
+  - name: 创作
+    links:
+      
+    - name: 微信公众号
+      icon: weixin green
+      style: basic
+      url: https://mp.weixin.qq.com/
+           
+    - name: 视频号助手
+      style: basic
+      url: https://channels.weixin.qq.com/platform/login
+      
+    - name: 135编辑器
+      style: orange
+      url: https://www.135editor.com/
+           
+    - name: 96编辑器
+      style: green
+      url: https://bj.96weixin.com/
+           
+    - name: 秀米 XIUMI
+      style: basic
+      url: https://xiumi.us/#/
+           
+    - name: windows主题
+      style: basic
+      url: https://zhutix.com/
+   
+    - name: 可画
+      style: violet
+      url: https://www.canva.cn/
+      
+    - name: icofont阿里
+      style: basic
+      url: https://www.iconfont.cn/
+      
+
+   
+    - name: 24k导航
+      style: basic
+      url: https://www.24kdh.com/    
+
+    - name: Tbox导航
+      style: basic
+      url: https://www.tboxn.com/
+      
+  - name: 自信即巅峰
+    links:
+      
+    - name: 陕西省招生考试网
+      style: blue
+      url: http://www.sneac.com/
+         
+    - name: 陕西省教育考试院
+      style: red
+      url: http://www.sneea.cn/index.htm
+      
+    - name: 中国教育考试网
+      style: basic
+      url: https://www.neea.edu.cn/
+       
+    - name: PMCAFF
+      style: green
+      url: https://www.pmcaff.com/ 
+
