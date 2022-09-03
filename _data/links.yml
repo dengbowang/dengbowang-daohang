@@ -174,6 +174,7 @@
       url: https://www.oschina.net/
 
     - name: python论坛
+      icon: python blue
       style: basic
       url: https://www.pythontab.com/
 
@@ -294,12 +295,12 @@
 
     - name: 爱奇艺
       icon: play green
-      style: green
+      style: basic
       url: https://iqiyi.com/
 
     - name: 芒果
       icon: TV orange
-      style: orange
+      style: basic
       url: http://mgtv.com/
 
     # - name: 咪咕视频
