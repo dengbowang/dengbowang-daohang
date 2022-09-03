@@ -45,7 +45,7 @@
       url: https://pc.qq.com/
 
     - name: 吾爱破解
-      style: basic blue1
+      style: basic 
       url: https://www.52pojie.cn/
       
     - name: 佛系软件
@@ -55,6 +55,10 @@
     - name: 亿破解
       style: orange
       url: https://www.ypojie.com/
+      
+    - name: 编程无处不在
+      style: basic
+      url: https://gaoyichao.com/Xiaotu/
 
 # -----------------------------------------------------
   - name: 工具
@@ -280,10 +284,6 @@
       style: black
       url: https://www.zjy2.icve.com.cn/portal/login.html
 
-    - name: 编程无处不在
-      style: basic
-      url: https://gaoyichao.com/Xiaotu/
-
 # -----------------------------------------------------
   - name: 影视
     links:
@@ -318,7 +318,7 @@
 
     - name: 哔哩哔哩
       icon: youtube pink
-      style: blue
+      style: basic
       url: https://bilibili.com/
 
     - name: AcFun
@@ -363,7 +363,7 @@
   - name: 陕职校园
     links:
     - name: 陕职官网
-      icon: church blue1
+      icon: church black
       style: basic
       url: http://www.spvec.com.cn/
 
