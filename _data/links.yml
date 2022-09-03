@@ -299,7 +299,7 @@
       url: https://iqiyi.com/
 
     - name: 芒果
-      icon: TV orange
+      icon: tv orange
       style: basic
       url: http://mgtv.com/
 
@@ -480,6 +480,7 @@
       
 
     - name: 少数派
+      icon: square root alternate red
       style: basic
       url: https://sspai.com/
 
