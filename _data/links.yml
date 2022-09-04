@@ -505,5 +505,20 @@
     - name: emoji合成
       style: basic
       url: https://tikolu.net/
+      
+    - name: 息流文档编辑
+      icon: edit black
+      style: basic
+      url: https://flowus.cn/556270c4-cde0-4ff7-8b22-172546f7d46b
+      
+    - name: 在线文档编辑（公共）
+      iocn: file alternate outline violet
+      style: basic 
+      url:  https://kdocs.cn/l/cc256Bs59Qrh
+      
+    - name: 在线文档编辑（个人）
+      iocn: file alternate outline violet
+      style: basic
+      url:  https://kdocs.cn/l/cvcSYLMTqGV6
 
       
