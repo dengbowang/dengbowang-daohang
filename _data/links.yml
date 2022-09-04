@@ -512,13 +512,13 @@
       url: https://flowus.cn/556270c4-cde0-4ff7-8b22-172546f7d46b
       
     - name: 金山文档编辑（公共）
-      icon: file alternate outline violet
-      style: basic 
+      icon: pencil alternate white
+      style: violet
       url:  https://kdocs.cn/l/cc256Bs59Qrh
       
     - name: 金山文档编辑（个人）
-      icon: file alternate outline violet
-      style: basic
+#     icon: pencil alternate
+      style: violet
       url:  https://kdocs.cn/l/cvcSYLMTqGV6
 
       
