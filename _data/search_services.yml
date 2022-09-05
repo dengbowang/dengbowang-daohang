@@ -1,3 +1,13 @@
+- id: Fsou
+  name: F搜
+  url: https://fsoufsou.com/s?ie=utf-8&wd={query}
+  shortcut:
+    icon: facebook f blue inverted
+    style: black
+    show: true
+
+
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?ie=utf-8&wd={query}
