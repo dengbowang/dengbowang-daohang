@@ -25,18 +25,17 @@
             <div class="seven wide column">
                 <h4 class="ui inverted header">{{ site.title }}</h4>
                 <div class="ui inverted link list">
-                    <div class="item">&copy; {{ site.time | date: "%Y" }} {{ site.organization }}</div>
+					
+<!-- 			<a class="item" href="{{ site.weixin_url }}" target="_blank">		{{ site.weixin }}</a>
+			<a class="item" href="{{ site.bilibili_url }}" target="_blank">		{{ site.bilibili }}</a>					
+			<a class="item" href="{{ site.zhihu_url }}" target="_blank">		{{ site.zhihu }}</a>	 -->
                     <!-- <div class="item">Designed and built with all the love and passion in the world by {{ site.author }}.</div> -->
 					
-					<a class="item" href="{{ site.weixin_url }}" target="_blank">		{{ site.weixin }}</a>
-					<a class="item" href="{{ site.bilibili_url }}" target="_blank">		{{ site.bilibili }}</a>					
-					<a class="item" href="{{ site.zhihu_url }}" target="_blank">		{{ site.zhihu }}</a>	
-			
-					<a class="item" href="{{ site.weixin_url }}" target="_blank">		<i class="fa fa-weixin" aria-hidden="true"></i>{{ site.weixin }}</a>
-					<a class="item" href="{{ site.bilibili_url }}" target="_blank">	 	<i class="home icon"></i>{{ site.bilibili }}</a>					
-					<a class="item" href="{{ site.zhihu_url }}" target="_blank">		<i class="qq icon"></i>{{ site.zhihu }}</a>					
-			
-       
+					
+			<a class="item" href="{{ site.weixin_url }}" target="_blank">		<i class="weixin icon"></i>{{ site.weixin }}</a>
+			<a class="item" href="{{ site.bilibili_url }}" target="_blank">	 	<i class="tv icon"></i>{{ site.bilibili }}</a>					
+			<a class="item" href="{{ site.zhihu_url }}" target="_blank">		<i class="zhihu icon"></i>{{ site.zhihu }}</a>					
+                   	<div class="item">&copy; {{ site.time | date: "%Y" }} {{ site.organization }}</div>   
 <!-- 					<div class="item">&;   <b>github</b> </div>			
                     <div class="item">&;   <b>gitee</b> </div>	 -->           			 									
                     <!-- <a class="item" href="{{ '/analytics/' | relative_url }}">
