@@ -1,5 +1,5 @@
 repository: DBW-Navi/BYR-Navi
-repository_url: https://github.com/dengbowang/
+repository_url: https://github.com/dengbowang
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -8,7 +8,7 @@ title1: 立方体 · Dengbowang
 title: 立方体Cube
 alias_en: Dengbowang
 alias_cn: 絺绤导航
-# description: A Navigation Website for BYR
+description: A Navigation Website for BYR
 keywords: 絺绤导航, BYR-Navi, BYR, BUPT, Navi, Navigation
 url: https://dengbowang.top
 established_at: "2022-10-01T00:00+08:00"
@@ -20,7 +20,7 @@ organization_url: https://teelab.net
 
 zhihu_url: https://www.zhihu.com/people/chi-xi-66-39
 zhihu:   知乎
-weixin_url: http://mp.weixin.qq.com/profile?src=3&timestamp=1662518706&ver=1&signature=CM3KBG1Ju*K9G*Je37Y2ZNLGtMjUIHCSRMP2MV61Jwe6L-0ucWGUUh7FyZNsqLKt8Ji-2SDohdqiyzycHucL9w==
+weixin_url: http://mp.weixin.qq.com/profile?src=3&timestamp=1662815326&ver=1&signature=CM3KBG1Ju*K9G*Je37Y2ZNLGtMjUIHCSRMP2MV61Jwe6L-0ucWGUUh7FyZNsqLKtlF5dKCTgBOtXw31eDF90XA==
 weixin:   微信公众号
 bilibili_url: https://space.bilibili.com/502300068?spm_id_from=333.1007.0.0
 bilibili:   哔哩哔哩
