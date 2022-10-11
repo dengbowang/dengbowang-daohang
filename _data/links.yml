@@ -63,15 +63,6 @@
 # -----------------------------------------------------
   - name: 工具
     links:
-    - name: github
-      icon: github black
-      style: basic
-      url: https://github.com/dengbowang/
-
-    - name: gitee
-      icon: git red
-      style: basic
-      url: https://gitee.com/dengbowang/
 
     - name: 一个工具箱
       style: blue
@@ -108,10 +99,7 @@
       style: basic
       url: http://pan.baidu.com/
 
-    - name: Alist
-      icon: hdd outline teal
-      style: basic
-      url: http://127.0.0.1/
+
 
     # - name: 彩云天气
     #   icon: cloud olive
@@ -239,6 +227,16 @@
     # - name: Coursera
     #   style: basic
     #   url: https://www.coursera.org/
+    
+    - name: github
+      icon: github black
+      style: basic
+      url: https://github.com/dengbowang/
+
+    - name: gitee
+      icon: git red
+      style: basic
+      url: https://gitee.com/dengbowang/
 
     - name: 中国大学MOOC
       icon: school green
