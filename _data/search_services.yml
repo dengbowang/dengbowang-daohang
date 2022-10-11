@@ -14,7 +14,7 @@
     icon: facebook f blue inverted
     style: black
     show: true
-	
+
 - id: bing
   name: 必应
   url: https://cn.bing.com/search?q={query}
@@ -22,7 +22,7 @@
     icon: microsoft teal inverted
     style: black
     show: true
-	
+
 - id: google
   name: 谷歌
   url: https://google.com/search?q={query}
