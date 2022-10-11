@@ -468,9 +468,9 @@
     - name: 小霸王学习机
       icon: gamepad
       style: basic
-      url: https://www.yikm.net/
-	  
-	- name: 摸鱼小游戏
+      url: https://www.yikm.net
+      
+    - name: 摸鱼小游戏
       icon: gamepad
       style: basic
       url: https://haiyong.site/moyu/
