@@ -6,7 +6,8 @@
     icon: paw blue inverted
     style: black
     show: true
-	
+
+
 - id: Fsou
   name: F搜
   url:  https://fsoufsou.com/search?q={query}&tbn=all
