@@ -1,12 +1,3 @@
-- id: Fsou
-  name: F搜
-  url:  https://fsoufsou.com/search?q={query}&tbn=all
-  shortcut:
-    icon: facebook f blue inverted
-    style: black
-    show: true
-
-
 
 - id: baidu
   name: 百度
@@ -15,7 +6,23 @@
     icon: paw blue inverted
     style: black
     show: true
-
+	
+- id: Fsou
+  name: F搜
+  url:  https://fsoufsou.com/search?q={query}&tbn=all
+  shortcut:
+    icon: facebook f blue inverted
+    style: black
+    show: true
+	
+- id: bing
+  name: 必应
+  url: https://cn.bing.com/search?q={query}
+  shortcut:
+    icon: microsoft teal inverted
+    style: black
+    show: true
+	
 - id: google
   name: 谷歌
   url: https://google.com/search?q={query}
@@ -24,13 +31,7 @@
     style: black
     show: true
 
-- id: bing
-  name: 必应
-  url: https://cn.bing.com/search?q={query}
-  shortcut:
-    icon: microsoft teal inverted
-    style: black
-    show: true
+
 
 - id: baidumap
   name: 百度地图

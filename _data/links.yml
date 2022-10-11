@@ -92,6 +92,12 @@
       style: basic
       url: https://www.123pan.com/login
 
+    - name: 云盘分享
+      icon: cloud download alternate 
+      style: basic
+      url: https://yunpan1.com
+
+
     - name: 阿里网盘
       icon: hdd blue
       style: basic
@@ -120,7 +126,7 @@
       style: basic
       url: https://www.gaoding.com/
 
-    - name: google扩展
+    - name: 浏览器扩展
       #  icon: google red
       icon: chrome red
       style: basic
@@ -134,21 +140,21 @@
   - name: 社交
     links:
 
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://m.weibo.cn/
+    # - name: 微博
+    #   icon: weibo red
+    #   style: basic
+    #   url: https://m.weibo.cn/
 
-    - name: 微信网页版
-      icon: weixin green
-      style: basic
-      url: https://wx.qq.com/
+    # - name: 微信网页版
+    #   icon: weixin green
+    #   style: basic
+    #   url: https://wx.qq.com/
 
 
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
+    # - name: 知乎
+    #   icon: zhihu blue
+    #   style: basic
+    #   url: https://www.zhihu.com/
 
 
     - name: 立创社区
@@ -251,10 +257,6 @@
       style: green
       url: https://www.runoob.com/
 
-    - name: Road 2 Coding
-      icon: graduation cap blue
-      style: basic
-      url: https://www.runoob.com/      
 
     - name: SegmentFault
       style: basic
@@ -317,10 +319,10 @@
       style: basic
       url: https://youku.com/
 
-    - name: 哔哩哔哩
-      icon: youtube pink
-      style: basic
-      url: https://bilibili.com/
+    # - name: 哔哩哔哩
+    #   icon: youtube pink
+    #   style: basic
+    #   url: https://bilibili.com/
 
     - name: AcFun
       style: orange
@@ -337,7 +339,7 @@
 
     - name: FIX
       style: yellow
-      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+      url: https://www.zimuxia.cn/
 
     - name: NEW
       style: basic
@@ -419,9 +421,6 @@
       style: basic
       url: https://channels.weixin.qq.com/platform/login
       
-    - name: 135编辑器
-      style: orange
-      url: https://www.135editor.com/
            
     - name: 96编辑器
       style: green
@@ -443,10 +442,9 @@
       style: basic
       url: https://www.iconfont.cn/
 
-    - name: 第一ppt网
+    - name: PPT导航
       style: basic
-      url: https://www.1ppt.com/
-
+      url: http://www.hippter.com/
       
     - name: 中国色
       icon: heart red
@@ -471,6 +469,11 @@
       icon: gamepad
       style: basic
       url: https://www.yikm.net/
+	  
+	- name: 摸鱼小游戏
+      icon: gamepad
+      style: basic
+      url: https://haiyong.site/moyu/
 
     - name: Infinity Games
       icon: gamepad violet
@@ -511,14 +514,10 @@
       style: black
       url: https://flowus.cn/556270c4-cde0-4ff7-8b22-172546f7d46b
       
-    - name: 金山文档编辑（公共）
+    - name: 金山文档编辑
       icon: pencil alternate white
       style: violet
       url:  https://kdocs.cn/l/cc256Bs59Qrh
       
-    - name: 金山文档编辑（个人）
-#     icon: pencil alternate
-      style: violet
-      url:  https://kdocs.cn/l/cvcSYLMTqGV6
 
       
