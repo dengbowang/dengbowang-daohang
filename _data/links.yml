@@ -420,13 +420,13 @@
       url: https://channels.weixin.qq.com/platform/login
       
            
-    - name: 96编辑器
-      style: green
-      url: https://bj.96weixin.com/
+    - name: mdnice编辑器
+      style: blue
+      url: https://www.mdnice.com/
            
-    - name: 秀米 XIUMI
+    - name: MD2All
       style: basic
-      url: https://xiumi.us/#/
+      url: http://md.aclickall.com/
            
     - name: windows主题
       style: basic
