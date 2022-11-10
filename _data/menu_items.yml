@@ -18,8 +18,8 @@
   url: /donate/
   active_key: donate
 
-  - name: 1
+- name: 首页
   icon: home
-  url: /donate/
+  url: /
   active_key: home
 
