@@ -18,17 +18,8 @@
   url: /donate/
   active_key: donate
 
-  - name: 111
-  icon: 
+  - name: 1
+  icon: home
   url: /donate/
-  active_key: donate
+  active_key: home
 
-  - name: 222
-  icon: donate
-  url: //
-  active_key: donate
-
-  - name: 333
-  icon: donate
-  url: /donate/
-  active_key: donate
