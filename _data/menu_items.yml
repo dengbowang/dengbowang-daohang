@@ -20,6 +20,6 @@
 
 - name: 首页
   icon: home
-  url: /
+  url: http://dh.dengbowang.top/
   active_key: home
 
